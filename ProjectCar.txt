@@ -22,3 +22,7 @@ examples: 	1)you input the car part you want to buy, set a priority to it, and t
 		2)after you've done step1, you can set it to 'bought'  and edit the price, and the car part is added to the list of 'improvements'
 			
 		-in each of this cases, the 'funds' tag gets updated, wich will always be displayed on top, so you know your limits everytime you plan
+
+
+User: you can add parts to your project car
+Visitor: you can see other projects(read-only)
