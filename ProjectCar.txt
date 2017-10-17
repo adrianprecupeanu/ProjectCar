@@ -1,3 +1,5 @@
+Precupeanu Adrian - paie1992@scs.ubbcluj.ro
+
 ProjectCar is an app that helps you manage your, you guessed it, project car.
 
 ***
